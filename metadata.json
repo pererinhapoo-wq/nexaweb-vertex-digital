@@ -1,0 +1,6 @@
+{
+  "name": "VERTEX DIGITAL",
+  "description": "Tecnologia para transformar negócios. Desenvolvimento digital, produtos, aplicações e soluções tecnológicas para empresas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
